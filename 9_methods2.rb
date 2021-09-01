@@ -17,9 +17,9 @@ def multiply(a, b)
 end
 
 def divide(a, b)
- puts "Dividing #{a} / #{b}"
+  puts "Dividing #{a} / #{b}"
 
- a / b
+  a / b
 end
 
 puts "Let's do some math with just methods!"

@@ -1,7 +1,7 @@
 name = 'Gzim Iseni'
 age = 24
-height = 74 #inches
-weight = 143.3 #lbs
+height = 74 # inches
+weight = 143.3 # lbs
 eyes = 'Brown'
 teeth = 'White'
 hair = 'Black'

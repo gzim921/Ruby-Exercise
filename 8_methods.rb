@@ -13,11 +13,11 @@ def puts_none()
 end
 
 puts_two('Gzim', 'Iseni')
-puts_one("First!")
-puts_none()# same as puts_none, without ()
+puts_one('First!')
+puts_none() # same as puts_none, without ()
 
 def hello(rev)
   puts "hello #{rev}".reverse
 end
 
-hello("Gzim")
+hello('Gzim')

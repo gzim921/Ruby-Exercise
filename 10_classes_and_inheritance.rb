@@ -1,7 +1,6 @@
 class Shape
   def welcome
     "Hi, I'm Shape, and I am the parent"
-
   end
 end
 

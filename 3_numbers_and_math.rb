@@ -19,7 +19,7 @@ puts 'Roosters', 100 - 25 * 3 % 4
 puts 'Now I will count the eggs:'
 
 # It will shows total of eggs with floating number
-#A floating-point number or a float represents a real number. Real numbers can be either a rational or an irrational number; numbers that contain a fractional part, such as 9.0 or -116.42. In other words, a float in a Ruby program is a number that contains a decimal point
+# A floating-point number or a float represents a real number. Real numbers can be either a rational or an irrational number; numbers that contain a fractional part, such as 9.0 or -116.42. In other words, a float in a Ruby program is a number that contains a decimal point
 puts (3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6).to_f
 
 # We make booelan
